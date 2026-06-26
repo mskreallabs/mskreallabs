@@ -11,9 +11,7 @@
   <br/>
   
   <h1>Greetings, I am <span style="color: #4CAF50;">MSKRealLabs</span> 🌐</h1>
-  <a href="https://mskreallabs.pages.dev/"><img src="https://img.shields.io/badge/Website-Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-
-
+  
   <!-- Advanced Animated Typing SVG -->
   <a href="https://github.com/MSKRealLabs">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=IT+Specialist+%26+Game+Developer;Native+C%2B%2B+Core+System+Architect;Unity+Engine+%26+C%23+Developer;OpenGL+Shader+%26+Graphics+Programmer;UE4+Mechanics+%26+Behavior+Tree+Designer;Cybersecurity+Vulnerability+Researcher" alt="Typing SVG" />
@@ -32,9 +30,12 @@
     <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE4" />
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
     <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
     <img src="https://img.shields.io/badge/Cybersecurity-20232A?style=for-the-badge&logo=hackerone&logoColor=white" alt="Security" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <a href="https://mskreallabs.pages.dev/"><img src="https://img.shields.io/badge/Website-Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+
+
   </p>
 </div>
 
